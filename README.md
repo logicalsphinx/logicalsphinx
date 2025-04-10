@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @logicalsphinx
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning C# and Unity.
-- 💞️ I’m looking to collaborate on a game...eventually 
+- 🌱 I’m currently learning Godot.
 - 📫 How to reach me ... will be updated when I want to be found.
 
 <!---
